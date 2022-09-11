@@ -1,0 +1,17 @@
+{
+    "name": "rob/design-patterns",
+    "description": "Design Patterns exercises",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Rob\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rob Gongora"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
